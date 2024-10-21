@@ -27,7 +27,7 @@ Hi, I'm Hilary505. You might recognize me as GitHub's mascot.
 
 ⚡ Fun fact: coding is about solving user problems and not styling user interfaces
 
-" If we pull together and commit ourselves, then we can push through anything"
+" If we pull together and commit ourselves, then we can push through anything ..."
 
 Hilary the Octocat
 
