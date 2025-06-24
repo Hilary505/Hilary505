@@ -22,8 +22,6 @@
     </td>
   </tr>
 </table>
-![Snake animation](https://raw.githubusercontent.com/Hilary505/snk/output/github-contribution-grid-snake.svg)
-
 😄 Pronouns: he/him
 <!---
 Hilary505/Hilary505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
