@@ -9,12 +9,19 @@
 🌱 I’m currently learning: Golang || JavaScript || Rust
 
 💞️ I’m looking to collaborate on : OpenSource Projects
-<p align="center">
-  <a href="https://github.com/Hilary505/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary505&layout=pie" />
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hilary505&show_icons=true&theme=radical" />
-</p>
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Hilary505/github-readme-stats">
+        <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary505&layout=pie" />
+      </a>
+    </td>
+    <td width="30"></td> <!-- space between -->
+    <td>
+      <img height="200" src="https://github-readme-stats.vercel.app/api?username=Hilary505&show_icons=true&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 
 😄 Pronouns: he/him
