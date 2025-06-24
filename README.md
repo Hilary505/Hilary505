@@ -22,10 +22,6 @@
     </td>
   </tr>
 </table>
-### 🐍 GitHub Snake Contribution Graph
-
-![snake gif](https://github.com/Hilary505/Hilary505/blob/output/github-contribution-grid-snake.svg)
-
 
 😄 Pronouns: he/him
 <!---
