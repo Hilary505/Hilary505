@@ -2,7 +2,8 @@
 
 ## About me
 
-Hi, I'm Hilary505. You might recognize me as GitHub's mascot.
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A20&width=435&lines=Hi+there!+I'm+Hilary;I+love+building+cool+things)
+
 
 | Rank | Languages     |
 |-----:|---------------|
@@ -26,7 +27,6 @@ Hi, I'm Hilary505. You might recognize me as GitHub's mascot.
 " If we pull together and commit ourselves, then we can push through anything ..."
 
 Hilary the Octocat
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A20&width=435&lines=Hi+there!+I'm+John;I+love+building+cool+things)
 
 <!---
 Hilary505/Hilary505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
