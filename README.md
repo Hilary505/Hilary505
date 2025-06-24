@@ -13,7 +13,7 @@
   <tr>
     <td>
       <a href="https://github.com/Hilary505/github-readme-stats">
-        <img height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary505&layout=pie" />
+        <img height="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary505&layout=pie" />
       </a>
     </td>
     <td width="30"></td> <!-- space between -->
