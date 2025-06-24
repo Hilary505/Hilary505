@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A20&width=435&lines=Hi+there!+I'm+Hilary;I+love+building+cool+things)
 
-👀 I’m interested in : WebDevelopment && MobileApplications
+👀 I’m interested in : WebDevelopment && MobileApplications || Artificial Intelligence and Machine Learning
 
 🌱 I’m currently learning: Golang || JavaScript || Rust
 
