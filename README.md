@@ -4,22 +4,15 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A20&width=435&lines=Hi+there!+I'm+Hilary;I+love+building+cool+things)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary505&layout=pie)](https://github.com/Hilary505/github-readme-stats)
 👀 I’m interested in : WebDevelopment && MobileApplications
 
 🌱 I’m currently learning: Golang || JavaScript || Rust
 
 💞️ I’m looking to collaborate on : OpenSource Projects
 
-📫 How to reach me: +254793928611
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary505&layout=pie)](https://github.com/Hilary505/github-readme-stats)
 
 😄 Pronouns: he/him
-
-⚡ Fun fact: coding is about solving user problems and not styling user interfaces
-
-" If we pull together and commit ourselves, then we can push through anything ..."
-
 
 ![Hilary's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hilary505&show_icons=true&theme=radical)
 
