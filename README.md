@@ -4,7 +4,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A20&width=435&lines=Hi+there!+I'm+Hilary;I+love+building+cool+things)
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 | Rank | Languages     |
 |-----:|---------------|
 |     1| JavaScript    |
