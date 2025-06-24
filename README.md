@@ -4,13 +4,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F78A20&width=435&lines=Hi+there!+I'm+Hilary;I+love+building+cool+things)
 
-| Rank | Languages     |
-|-----:|---------------|
-|     1| JavaScript    |
-|     2| Golang        |
-|     3| Rust          |
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hilary505&layout=pie)](https://github.com/Hilary505/github-readme-stats)
 👀 I’m interested in : WebDevelopment && MobileApplications
 
 🌱 I’m currently learning: Golang || JavaScript || Rust
