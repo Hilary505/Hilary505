@@ -22,7 +22,6 @@
     </td>
   </tr>
 </table>
-![Snake animation](https://raw.githubusercontent.com/Hilary505/Hilary505/output/snake.svg)
 
 
 😄 Pronouns: he/him
