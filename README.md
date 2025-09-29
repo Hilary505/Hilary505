@@ -29,7 +29,6 @@
 Hilary505/Hilary505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![GitHub Snake Light](https://raw.githubusercontent.com/Hilary505/Hilary505/output/snake.svg#gh-light-mode-only)
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Hilary505/Hilary505/output/snake.svg#gh-dark-mode-only)
 
 
