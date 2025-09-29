@@ -27,8 +27,9 @@
 😄 Pronouns: he/him
 <!---
 Hilary505/Hilary505 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
----><!-- Light mode -->
+You can click the Preview link to take a look at your changes.<!-- Light mode -->
+![GitHub Snake Light](https://raw.githubusercontent.com/Hilary505/Hilary505/output/snake.svg?palette=github-light#gh-light-mode-only)
+
 <!-- Dark mode -->
 ![GitHub Snake Dark](https://raw.githubusercontent.com/Hilary505/Hilary505/output/snake.svg?palette=github-dark#gh-dark-mode-only)
 
