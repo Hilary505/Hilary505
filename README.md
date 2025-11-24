@@ -6,7 +6,7 @@
 
 👀 I’m interested in : WebDevelopment && MobileApplications || Artificial Intelligence and Machine Learning
 
-🌱 I’m currently learning: Golang || JavaScript || Rust
+🌱 I’m currently learning: Golang || JavaScript || Java
 
 💞️ I’m looking to collaborate on : OpenSource Projects
 <table>
